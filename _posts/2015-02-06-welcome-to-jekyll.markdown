@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "真棒，我开始用 Github＋jekyll 写博客啦"
 date:   2015-02-06 19:51:56
 categories: jekyll update
 ---
