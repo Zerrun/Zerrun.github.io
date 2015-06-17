@@ -15,4 +15,4 @@ categories: jekyll
 说来好笑，我游泳的本能姿势就是狗刨，但这个天性本能也是决定我能游泳的基础，也希望自己从狗刨开始一步步成长，学会越来越有效率、越来越优雅的 “*游泳*” 姿势 。
 
 另一个含义就是：挖掘得越深，看得越广阔 
->dig deeper, watch further！
+>dig deeper, see further！
